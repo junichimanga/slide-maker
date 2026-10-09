@@ -1,0 +1,7 @@
+node_modules
+dist
+.env
+
+# 生成・配置した画像（必要なら外してください）
+public/images/*
+!public/images/.gitkeep
